@@ -6,7 +6,7 @@
 "logo":"https://cdn.jsdelivr.net/gh/tuji-2015/Picbed/pic/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240730113910.jpg",
 
 "lives":[
-        {"name":"全球IPTV","type":0,"url":"./tv/unitv.txt",","playerType":2,"timeout":60},
+        {"name":"全球IPTV","type":0,"url":"https://iptv.catvod.com/tv.m3u","playerType":2,"timeout":60},
         {"name":"本地联通","type":0,"url":"./tv/unitv.txt","playerType":2},
         {"name":"本地移动","type":0,"url":"./tv/IPTV.txt","playerType":2}
 ],
@@ -214,4 +214,5 @@
 {"name":"盘古","type":0,"url":"https://www.playm3u8.cn/jiexi.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"夜幕","type":0,"url":"https://yemu.xyz/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}}
 ]
+
 }
