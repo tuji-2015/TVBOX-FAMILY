@@ -30,7 +30,7 @@
 "sites":[
 
 #豆瓣首页
-{"key":"pg_豆瓣","name":"🍥豆瓣🍥","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./lib/tokenm.json$$$./lib/douban.json"},
+{"key":"vod_苹果影视","name":"♈️苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
 
 #优质站点
 {"key":"csp_暴風","name":"⛈️暴风[CJ]","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1},
@@ -156,7 +156,6 @@
 {"key":"vod_金牌影视","name":"♈️金牌影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn","jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
 {"key":"vod_云播影视","name":"♈️云播影视","type":3,"api":"csp_Tvyb","ext":"http://www.viptv01.com","jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
 {"key":"vod_奇优影视","name":"♈️奇优影视","type":3,"api":"csp_Qiyou","jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
-{"key":"vod_苹果影视","name":"♈️苹果影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
 {"key":"vod_全网影视","name":"♈️全看影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com","jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
 {"key":"vod_饺子影视","name":"♈️饺子影视","type":3,"api":"csp_Jiaozi","jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
 {"key":"vod_低端影视","name":"♈️低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/vod.jar;md5;c9e3fa617afbc4c014ed67e343ef042d"},
@@ -217,4 +216,5 @@
 ]
 
 }
+
 
